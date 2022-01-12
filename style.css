@@ -1,0 +1,53 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#start, #status, #object_name{
+    font-size: 18px;
+}
+
+.copy_right__footer{
+    position:fixed;
+    color: #ffffff;
+    bottom:0;
+    width:100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+
+}
+
+canvas{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+
+}
+
+.note{
+    color: black;
+    font-size: 20;
+}
+
+#input{
+    width: 600px;
+    height: 50px;
+}
+
+#label{
+color: white;
+font-weight: 600;
+}
